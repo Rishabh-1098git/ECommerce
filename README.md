@@ -1,2 +1,2 @@
 # ECommerce
- ECommerce Project with ML recommendation System. Contributers :-  Pratyush Ojha, Ujjawal Pratap Singh, Pawan Kumar and Rishabh Saini.
+ ECommerce Website with Machine Learning recommendation System. Contributers :-  Pratyush Ojha, Ujjawal Pratap Singh, Pawan Kumar and Rishabh Saini....
